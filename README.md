@@ -2,7 +2,6 @@
 使用华为云垃圾分类数据集训练的垃圾分类网络，可以对40类垃圾分类。网络使用了VGG16作为基础，没有过多的调参，所以差不多只是一个draft
 
 使用的环境如下
-# Name                    Version                   Build  Channel
 absl-py                   1.4.0                     <pip>
 ale-py                    0.8.1                     <pip>
 asciitree                 0.3.3                     <pip>
